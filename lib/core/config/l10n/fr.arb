@@ -1,0 +1,11 @@
+{
+  "@@locale": "fr",
+  "noInternetConnection": "Pas de connexion Internet.",
+  "serverError": "Erreur serveur.",
+  "unknownError": "Une erreur inattendue est survenue.",
+  "notFoundError": "Resultat introuvable.",
+  "badRequestError": "Requete invalide.",
+  "notAuthorizedError": "Accès non autorisé.",
+  "forbiddenError": "Accès interdit.",
+  "typeError": "Type invalide."
+}
